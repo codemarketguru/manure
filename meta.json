@@ -1,0 +1,26 @@
+{
+   "address": "4oFjY1zJ856b1zpFhJZr5BGP8EoEZsUpYEpbuKfBCKWT",
+   "symbol": "MNUR",
+   "name": "Manure",
+   "decimals": 6,   
+   "description": "Total and utter",
+   "image": "https://github.com/codemarketguru/manure/blob/main/logo.png",
+   "attributes": [],
+   "tags": [
+      "utility-token",
+      "meme-token",
+      "community-token"
+   ],
+   "extensions": {
+      "twitter": "https://twitter.com/mnur",
+      "website": "https://www.mnur.sol"
+   },   
+   "properties": {
+      "files": [
+         {
+            "uri": "https://github.com/codemarketguru/manure/blob/main/logo.png",
+            "type": "image/png"
+         }
+      ]
+   }
+}

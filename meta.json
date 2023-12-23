@@ -3,13 +3,4 @@
    "symbol": "MNUR",
    "description": "noun. The dung of livestock or poultry.",
    "image": "https://github.com/codemarketguru/manure/blob/main/logo.png",
-   "attributes": [],
-   "properties": {
-      "files": [
-         {
-            "uri": "https://github.com/codemarketguru/manure/blob/main/logo.png",
-            "type": "image/png"
-         }
-      ]
-   }
 }
